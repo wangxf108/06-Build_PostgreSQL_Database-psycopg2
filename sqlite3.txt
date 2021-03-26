@@ -1,5 +1,7 @@
 sqlite3介绍
 
+write SQL code inside Python using sqlite3. and sqlite3 is a built-in Python library. 
+
 安装sqlite3数据库：
 sudo apt-get install sqlite3*
 
